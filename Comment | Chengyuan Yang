@@ -1,0 +1,17 @@
+They would like to use some other factors except population, income, and mortality to predict the life expectancy. They are using the
+data provided by WHO and kaggle which included 20 potential factors. Their objective is using multiple linear or non-linear analysis 
+of factors for different countries to identify factors that contribute to extected life expectancy.
+One thing I like the proposal is that they separate the proposal into three parts and label each part by specific title. These titles
+let the audience easier to know what is the goal of the group and what kind of result to expect.
+Another thing I like about their proposal is that unlike tradition dataset, they are trying to investigate some other factors which
+affect the life expectancy.
+One last thing I like about their proposal is that they provide the data link so I have a chance to look at the data, which enables me
+to further understand what their group is going to work on.
+One thing I don't like the proposal is that they don't mention what kind of parameters they are going to use, so that I don't have a 
+general idea about where their project will go.
+Another concern is that they used data from 2000 to 2015, while living condition varies a lot and life expectancy keeps changing. So I
+wonder how they can use the datasets have such a long span to predict the life expectancy.
+The third thing is that they only list the problems they have, but they don't list how they are going to solve the problem.
+I am very interesting in their case and would like to know the result from their team. However, it is unclear about what they will finally 
+get from these project. Are they going to have a prediction model or they are going to have a classifier model. I think making it clear will
+make this a better proposal.
