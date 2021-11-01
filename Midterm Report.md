@@ -19,5 +19,6 @@
   <img src = "/Images/Missing Value Statistics" width = "400" height = "200">
 </p>
 ## Methodology and Preliminary Analysis
+
 ## Next Steps
    According to the preliminary analysis above, the model still needs to be refine. As a plan, we will try regularization and PCA to choose a sparse mode. Also, we plan to use random forest as a contrast and choose the best model. As for the final goal of the project, we are tring to figure out the significance of different features and even broad categories that mentioned above. Some recommendations will be made to government on improving the life expectancy as well.
