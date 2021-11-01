@@ -15,7 +15,7 @@
 
   After removing the outliers, we first check for the missing value statistics, as shown in figure 1. 
 <p align = "center">
-  <img src = "/Images/Missing Value Statistics">
+  <img src = "/Images/Missing Value Statistics" width = "400" height = "200">
 </p>
 ## Methodology and Preliminary Analysis
 ## Next Step
