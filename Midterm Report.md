@@ -1,5 +1,6 @@
 # Statistical Analysis on factors influencing Life Expectancy
 ## Dataset Description
+   The dataset we use concentrated on immunization factors, mortality factors, economic facors, social factors and other health related factors. The dataset related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website. Among all categories of health-related factors only those critical factors were chosen which are more representative. In this project, we have considered data from year 2000-2015 for 193 countries for further analysis. The final dataset consists of 22 Columns and 2938 rows which meant 20 predicting variables. All predicting variables was then divided into several broad categories:Immunization related factors, Mortality factors, Economical factors and Social factors.
 ## Data Pre-processing and Analysis
   Firstly, we used describe() method to generate the basic statistics about the features in dataset, such as mean, median, maximum, and minimum. We concluded the following findings that could be the possible steps for our data pre-processing. 
   1. The minimum value of "Adult Mortality" is 1, which might not be correct since motality rate of 1 out of 1000 people is unrealistic. 
