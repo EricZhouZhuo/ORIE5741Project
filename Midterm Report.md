@@ -43,6 +43,6 @@
    We applied L2 regularization Lasso onto our model to reduce the overfitting. First, we implemented a grid search to find the best parameter Alpha for Lasso. We found that for Alpha = 0.1, we got the highest score. After we applied this parameter with Lasso on our dataset, we got a relatively lower accuracy on our training set(80.3%), but much more higher accuracy on testing set(79.0%).
    
 ## Next Step
-
+According to the preliminary analysis above, the model still needs to be refine. As a plan, we will try regularization and PCA to choose a sparse mode. Although regularization may cause bias, we can not ignore the benefit it does on reducing variance and improving interpretability. Besides, the application of PCA will help us with dimensionality reduction which helps with overfitting. Also, we plan to use random forest as a contrast and choose the best model. As for the final goal of the project, we are tring to figure out the significance of different features and even broad categories that mentioned above. Some recommendations will be made to government on improving the life expectancy as well.
    
 
