@@ -8,3 +8,5 @@ Team members: Zhuo Zhou zz274,
 This project is about analysis on people's average life expectancy in a country base, to help in suggesting a country which area should be given importance in order to efficiently improve the life expectancy of its population. The dataset we used comes from Kaggle. 
 
 For more details of the dataset, please see at https://www.kaggle.com/kumarajarshi/life-expectancy-who
+
+Youtube link for presentation: https://www.youtube.com/watch?v=SGQfmYGHM0M
